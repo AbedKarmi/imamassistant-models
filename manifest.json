@@ -1,0 +1,121 @@
+{
+  "schema": 1,
+  "models": {
+    "tiny": {
+      "version": 1,
+      "release": "model-v1",
+      "sizeMb": 100,
+      "minApp": 0,
+      "files": {
+        "quran-encoder.int8.onnx": {
+          "size": 12926476,
+          "sha256": "bfcd30679ed2a8f901158b1863b5d5b086aea9eb5930c5dfeee931b6277a2211"
+        },
+        "quran-decoder.int8.onnx": {
+          "size": 89846458,
+          "sha256": "5a26d9ccfd65cdc2be8972290a002616e95832add32ba3f4e03cac91f8b43dcc"
+        },
+        "quran-tokens.txt": {
+          "size": 866987,
+          "sha256": "febeed8e568f92d9ca984580bc2e6b605b867dc5ba4486f9646de381b44a8226"
+        },
+        "silero_vad.onnx": {
+          "size": 643854,
+          "sha256": "9e2449e1087496d8d4caba907f23e0bd3f78d91fa552479bb9c23ac09cbb1fd6"
+        }
+      }
+    },
+    "base": {
+      "version": 1,
+      "release": "model-base-v1",
+      "sizeMb": 160,
+      "minApp": 0,
+      "files": {
+        "quran-encoder.int8.onnx": {
+          "size": 29104812,
+          "sha256": "321edece689ce154e676c858b2d01d5421048a998d18f274539905165f6384d1"
+        },
+        "quran-decoder.int8.onnx": {
+          "size": 130659024,
+          "sha256": "1b19292bee6eb2bd1514aa80793b580303b2868f8596ccf1bce79c46f3128c2b"
+        },
+        "quran-tokens.txt": {
+          "size": 866987,
+          "sha256": "febeed8e568f92d9ca984580bc2e6b605b867dc5ba4486f9646de381b44a8226"
+        },
+        "silero_vad.onnx": {
+          "size": 643854,
+          "sha256": "9e2449e1087496d8d4caba907f23e0bd3f78d91fa552479bb9c23ac09cbb1fd6"
+        }
+      }
+    },
+    "small": {
+      "version": 1,
+      "release": "model-small-v1",
+      "sizeMb": 375,
+      "minApp": 0,
+      "files": {
+        "quran-encoder.int8.onnx": {
+          "size": 112413417,
+          "sha256": "ebd1f0fd104cac9aefb1952f5979b2ac244c178b0c776612a984b6770905b840"
+        },
+        "quran-decoder.int8.onnx": {
+          "size": 262200764,
+          "sha256": "8d2d5f1eefdbc464a00e28f26a375a4682786923411a8f8a38a9fdb1916264e0"
+        },
+        "quran-tokens.txt": {
+          "size": 866987,
+          "sha256": "febeed8e568f92d9ca984580bc2e6b605b867dc5ba4486f9646de381b44a8226"
+        },
+        "silero_vad.onnx": {
+          "size": 643854,
+          "sha256": "9e2449e1087496d8d4caba907f23e0bd3f78d91fa552479bb9c23ac09cbb1fd6"
+        }
+      }
+    },
+    "fastconformer": {
+      "version": 1,
+      "release": "model-fastconformer-v1",
+      "sizeMb": 126,
+      "minApp": 0,
+      "files": {
+        "model.int8.onnx": {
+          "size": 131801847,
+          "sha256": "30e585215dbcc0ad2036269a966accbcfa8f83e4f0066190a08bde9857f5b946"
+        },
+        "tokens.txt": {
+          "size": 13883,
+          "sha256": "b6d21b3555fb3fc7a89942d677e80ce4f6274896b72544671510a9c10f2d62a3"
+        },
+        "silero_vad.onnx": {
+          "size": 643854,
+          "sha256": "9e2449e1087496d8d4caba907f23e0bd3f78d91fa552479bb9c23ac09cbb1fd6"
+        },
+        "LICENSE": {
+          "size": 5852,
+          "sha256": "8ee6366f4b3ccb70dd2e9265d8a02505b402c088065a72b2251e1b89e8476b34"
+        }
+      }
+    },
+    "qurankarim": {
+      "version": 1,
+      "release": "model-qurankarim-v1",
+      "sizeMb": 87,
+      "minApp": 0,
+      "files": {
+        "model.int8.onnx": {
+          "size": 86983112,
+          "sha256": "e564c8b4ce93ec3e83190ab590caeb093be519133f16864cb611a495fdf48e6b"
+        },
+        "tokens.txt": {
+          "size": 12858,
+          "sha256": "9b938381a19a69bb279cdcfc299419f25a049ea1de192e0d10317274a0f20074"
+        },
+        "silero_vad.onnx": {
+          "size": 643854,
+          "sha256": "9e2449e1087496d8d4caba907f23e0bd3f78d91fa552479bb9c23ac09cbb1fd6"
+        }
+      }
+    }
+  }
+}

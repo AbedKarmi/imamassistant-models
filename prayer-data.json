@@ -1,0 +1,247 @@
+{
+  "version": "2026-10-17",
+  "palestine": {
+    "cities": [
+      {
+        "key": "jerusalem",
+        "name_ar": "القدس",
+        "name_en": "Jerusalem",
+        "lat": 31.783333,
+        "lon": 35.216667,
+        "minutes": 0.0
+      },
+      {
+        "key": "ramallah",
+        "name_ar": "رام الله",
+        "name_en": "Ramallah",
+        "lat": 31.89964,
+        "lon": 35.20422,
+        "minutes": 0.0
+      },
+      {
+        "key": "al_bireh",
+        "name_ar": "البيرة",
+        "name_en": "Al-Bireh",
+        "lat": 31.91001,
+        "lon": 35.21645,
+        "minutes": 0.0
+      },
+      {
+        "key": "bethlehem",
+        "name_ar": "بيت لحم",
+        "name_en": "Bethlehem",
+        "lat": 31.70487,
+        "lon": 35.20376,
+        "minutes": 0.0
+      },
+      {
+        "key": "jenin",
+        "name_ar": "جنين",
+        "name_en": "Jenin",
+        "lat": 32.45943,
+        "lon": 35.30086,
+        "minutes": 0.0
+      },
+      {
+        "key": "nablus",
+        "name_ar": "نابلس",
+        "name_en": "Nablus",
+        "lat": 32.22111,
+        "lon": 35.25444,
+        "minutes": 0.0
+      },
+      {
+        "key": "nazareth",
+        "name_ar": "الناصرة",
+        "name_en": "Nazareth",
+        "lat": 32.70087,
+        "lon": 35.29719,
+        "minutes": 0.0
+      },
+      {
+        "key": "umm_al_fahm",
+        "name_ar": "أم الفحم",
+        "name_en": "Umm al-Fahm",
+        "lat": 32.51758,
+        "lon": 35.15397,
+        "minutes": 0.0
+      },
+      {
+        "key": "jericho",
+        "name_ar": "أريحا",
+        "name_en": "Jericho",
+        "lat": 31.86667,
+        "lon": 35.45,
+        "minutes": -1.0
+      },
+      {
+        "key": "tiberias",
+        "name_ar": "طبريا",
+        "name_en": "Tiberias",
+        "lat": 32.79396,
+        "lon": 35.53152,
+        "minutes": -1.0
+      },
+      {
+        "key": "safed",
+        "name_ar": "صفد",
+        "name_en": "Safed",
+        "lat": 32.96465,
+        "lon": 35.496,
+        "minutes": -1.0
+      },
+      {
+        "key": "baysan",
+        "name_ar": "بيسان",
+        "name_en": "Baysan",
+        "lat": 32.49658,
+        "lon": 35.4965,
+        "minutes": -1.0
+      },
+      {
+        "key": "hebron",
+        "name_ar": "الخليل",
+        "name_en": "Hebron",
+        "lat": 31.52935,
+        "lon": 35.0938,
+        "minutes": 1.0
+      },
+      {
+        "key": "idhna",
+        "name_ar": "إذنا",
+        "name_en": "Idhna",
+        "lat": 31.55874,
+        "lon": 34.97436,
+        "minutes": 1.0
+      },
+      {
+        "key": "dura",
+        "name_ar": "دورا",
+        "name_en": "Dura",
+        "lat": 31.50777,
+        "lon": 35.02929,
+        "minutes": 1.0
+      },
+      {
+        "key": "beit_awwa",
+        "name_ar": "بيت عوا",
+        "name_en": "Beit Awwa",
+        "lat": 31.50911,
+        "lon": 34.94938,
+        "minutes": 1.0
+      },
+      {
+        "key": "haifa",
+        "name_ar": "حيفا",
+        "name_en": "Haifa",
+        "lat": 32.81303,
+        "lon": 34.99928,
+        "minutes": 1.0
+      },
+      {
+        "key": "acre",
+        "name_ar": "عكا",
+        "name_en": "Acre",
+        "lat": 32.92814,
+        "lon": 35.07647,
+        "minutes": 1.0
+      },
+      {
+        "key": "tulkarm",
+        "name_ar": "طولكرم",
+        "name_en": "Tulkarm",
+        "lat": 32.31156,
+        "lon": 35.0269,
+        "minutes": 1.0
+      },
+      {
+        "key": "kafr_qasim",
+        "name_ar": "كفر قاسم",
+        "name_en": "Kafr Qasim",
+        "lat": 32.11443,
+        "lon": 34.9756,
+        "minutes": 1.0
+      },
+      {
+        "key": "tayibe",
+        "name_ar": "الطيبة",
+        "name_en": "Tayibe",
+        "lat": 32.26616,
+        "lon": 35.00893,
+        "minutes": 1.0
+      },
+      {
+        "key": "lod",
+        "name_ar": "اللد",
+        "name_en": "Lod",
+        "lat": 31.9467,
+        "lon": 34.8903,
+        "minutes": 1.5
+      },
+      {
+        "key": "ramla",
+        "name_ar": "الرملة",
+        "name_en": "Ramla",
+        "lat": 31.92624,
+        "lon": 34.8635,
+        "minutes": 1.5
+      },
+      {
+        "key": "qalqilya",
+        "name_ar": "قلقيلية",
+        "name_en": "Qalqilya",
+        "lat": 32.18966,
+        "lon": 34.97063,
+        "minutes": 1.5
+      },
+      {
+        "key": "beersheba",
+        "name_ar": "بئر السبع",
+        "name_en": "Beersheba",
+        "lat": 31.25181,
+        "lon": 34.7913,
+        "minutes": 2.0
+      },
+      {
+        "key": "jaffa",
+        "name_ar": "يافا",
+        "name_en": "Jaffa",
+        "lat": 32.05043,
+        "lon": 34.75224,
+        "minutes": 2.0
+      },
+      {
+        "key": "gaza",
+        "name_ar": "غزة",
+        "name_en": "Gaza",
+        "lat": 31.50161,
+        "lon": 34.46672,
+        "minutes": 3.0
+      },
+      {
+        "key": "rafah",
+        "name_ar": "رفح",
+        "name_en": "Rafah",
+        "lat": 31.29722,
+        "lon": 34.24357,
+        "minutes": 4.0
+      },
+      {
+        "key": "khan_younis",
+        "name_ar": "خان يونس",
+        "name_en": "Khan Yunis",
+        "lat": 31.34018,
+        "lon": 34.30627,
+        "minutes": 4.0
+      },
+      {
+        "key": "deir_al_balah",
+        "name_ar": "دير البلح",
+        "name_en": "Deir al-Balah",
+        "lat": 31.41834,
+        "lon": 34.34933,
+        "minutes": 4.0
+      }
+    ]
+  }
+}
